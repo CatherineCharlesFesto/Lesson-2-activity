@@ -1,11 +1,28 @@
 <html>
-    <title></title>
     <head>
+    <title>css style </title>
+<style>
+h1{
+text-align: center;
+background-color: blueviolet;
+color: cyan;
+}
+p{
+color: lightsalmon;
+font-family: Arial, Helvetica, sans-serif;
+font-size: large;
+text-align: justify;
+background-color: darkmagenta;
+}
+img{
+background-color: darkorchid;
+</style>
 <body>
-    <article>
-   <hi </hi>
+   <h1>FLOWERS</h1>
    <img src="birthday-roses-globalrose.png" height="300px"width="300 px">
+   <p>
    These are roses. my favorate flowers the smell very good and i like themThey are so buetiful. last but not lest i planted them in my garden. I love my garden
+   </p>
     </body>
     </html>
 </head>
