@@ -7,12 +7,16 @@ text-align: center;
 background-color: blueviolet;
 color: cyan;
 }
-p{
+#text1{
 color: lightsalmon;
 font-family: Arial, Helvetica, sans-serif;
 font-size: large;
 text-align: justify;
 background-color: darkmagenta;
+}
+#text2{
+color: brown;
+background-color: black;
 }
 img{
 background-color: darkorchid;
@@ -20,9 +24,12 @@ background-color: darkorchid;
 <body>
    <h1>FLOWERS</h1>
    <img src="birthday-roses-globalrose.png" height="300px"width="300 px">
-   <p>
+   <p id="text1"> 
    These are roses. my favorate flowers the smell very good and i like themThey are so buetiful. last but not lest i planted them in my garden. I love my garden
    </p>
+   <p id="text2">
+    My name is catherine
+    </p>
     </body>
     </html>
 </head>
